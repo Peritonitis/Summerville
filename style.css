@@ -1,0 +1,148 @@
+.image{
+    width: 150px;
+    height: 150px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+*{
+    background-color: beige;
+    list-style-type: none;
+    font-family: papyrus;
+    text-decoration: none;
+    color: inherit;
+    margin-right: 5px;
+}
+.deceased{
+    color:red
+}
+ul{
+    font-weight: bolder;
+}
+.unknown{
+    color: rgb(255, 209, 2)
+}
+
+.heroes{
+    text-align: center;
+}
+
+.villains{
+    text-align: center;
+}
+
+.her{
+    display: flex;
+    text-align: center;
+}
+
+.he li{
+    margin-right: 50px;
+}
+
+/* ------------------------Characters heroes----------------------------------------- */
+/* toimah */
+/* #toimah{
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+#toimahimg{
+    position: absolute;
+    top: 160px;
+    left: 30px;
+} */
+
+/* zack */
+/* #zack{
+    position: absolute;
+    top: 130px;
+    left: 220px;
+}
+#zackimg{
+    position: absolute;
+    top: 160px;
+    left: 210px;
+} */
+/* planck */
+/* #planck{
+    position: absolute;
+    top: 130px;
+    left: 430px;
+}
+#planckimg{
+    position: absolute;
+    top: 160px;
+    left: 380px;
+} */
+/* bryce */
+/* #bryce{
+    position: absolute;
+    top: 130px;
+    left: 610px;
+}
+#bryceimg{
+    position: absolute;
+    top: 160px;
+    left: 560px;
+} */
+
+/* ----------------------characters villains--------------------------- */
+/* nota2. me di cuenta de la existencia de las propiedades display, 
+particularmente flex y la propiedad margin */
+/* robstaff */
+/* #staff{
+    position: absolute;
+    top: 420px;
+    left: 70px;
+}
+#staffimg{
+    position: absolute;
+    top: 450px;
+    left: 30px;
+} */
+
+/* mahchi */
+/* #mahchi{
+    position: absolute;
+    top: 420px;
+    left: 410px;
+}
+#mahchiimg{
+    position: absolute;
+    top: 450px;
+    left: 380px;
+} */
+/* duncan */
+/* #duncan{
+    position: absolute;
+    top: 420px;
+    left: 565px;
+}
+#duncimg{
+    position: absolute;
+    top: 450px;
+    left: 560px;
+} */
+/* kameron */
+/* #kammy{
+    position: absolute;
+    top: 620px;
+    left: 70px;
+}
+#kammyimg{
+    position: absolute;
+    top: 650px;
+    left: 30px;
+}
+#danny{
+    position: absolute;
+    top: 620px;
+    left: 255px;
+}
+#dannyimg{
+    position: absolute;
+    top: 650px;
+    left: 210px;
+} */
